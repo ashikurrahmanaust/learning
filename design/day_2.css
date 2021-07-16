@@ -1,0 +1,15 @@
+.background {
+    height: 500px;
+    width: 100%;
+    background-color: blue;
+}
+.background .content p{
+    color: rgb(129, 37, 37);
+}
+
+.background .content h1{
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    color: rgb(37, 129, 42);
+}
